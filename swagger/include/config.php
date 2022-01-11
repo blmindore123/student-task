@@ -1,7 +1,7 @@
 <?php
 
-$baseUrl='localhost/student-portal';
-$siteUrl='http://localhost/student-portal';
+$baseUrl='localhost/student-task';
+$siteUrl='http://localhost/student-task';
 
 return [
 
